@@ -1,4 +1,4 @@
-# MyFitnessPalReverseEngineering
+# MyFitnessPal Reverse Engineering
 
 Some methods for calculating one's calorie expenditure include the Katch McArdle, Harris-Benedict and Mifflin St Jeor  formulas, among many others. These make predictions about one's body based on measurable inputs such as height, age, gender, weight, body fat percentage and activity levels.
 
